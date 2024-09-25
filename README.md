@@ -1,3 +1,6 @@
+This repository is a school project in UE "Projects on recent advances in Machine Learning", IMT Atlantique, France.
+
+The goal was to explore 
 we used the following resources in order to develop the methods:
 
 Survey sur le DNN Watermarking -> https://www.frontiersin.org/articles/10.3389/fdata.2021.729663/pdf
