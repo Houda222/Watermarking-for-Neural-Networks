@@ -1,5 +1,7 @@
-This repository is a school project as a part of the subject "Projects on recent advances in Machine Learning", IMT Atlantique, France.
+This repository is a school project as a part of the subject "Projects on recent advances in Machine Learning", IMT Atlantique, France. 
+
 It is the result of the combined efforts of : Houda Ghallab, Noé Getuirrez and Mohamed Salim Arifa.
+
 Managed and tutored by Mr. Mohamed Lansari.
                                                     
 
