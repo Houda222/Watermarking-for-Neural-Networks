@@ -16,6 +16,7 @@ The goal was to explore different methods to embed a watermark into neural netwo
 - **Black-Box, Zhang et al.**: https://www.researchgate.net/profile/Zhongshu-Gu/publication/325480419_Protecting_Intellectual_Property_of_Deep_Neural_Networks_with_Watermarking/links/5c1cfcd4a6fdccfc705f2cd4/Protecting-Intellectual-Property-of-Deep-Neural-Networks-with-Watermarking.pdf
 - **Additional ressources**: https://www.frontiersin.org/articles/10.3389/fdata.2021.729663/pdf
 
+Check Presentation.pdf for a quick summary and explanation.
 
 ## Implementation:
 The code aims to be as clear and readable as possible with every part explained. we use jupyter notebooks to separate codes into cells with explanations linked to each cell for an ease of access.
